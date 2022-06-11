@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362186208888",
+    "firebase_url": "https://mychat-5e6cd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-5e6cd",
+    "storage_bucket": "mychat-5e6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362186208888:android:87d8557805e92cb9839f8d",
+        "android_client_info": {
+          "package_name": "com.vishnevskiypro.secretchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362186208888-vvjluqronokvl626plu5h0ckkl5a2n3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FVpveLaLdTGaNaZ3Kxben00xZRmEMPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362186208888-vvjluqronokvl626plu5h0ckkl5a2n3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
